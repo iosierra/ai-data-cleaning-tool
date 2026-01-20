@@ -9,7 +9,6 @@ An intelligent, automated solution designed to streamline the data preparation p
 * **Data Processing:** Pandas, NumPy
 * **Interface:** Streamlit (for Web UI)
 * **Backend:** FastAPI
-* **Environment Management:** Python-dotenv
 
 ## ✨ Features
 

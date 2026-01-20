@@ -8,6 +8,7 @@ An intelligent, automated solution designed to streamline the data preparation p
 * **AI/ML:** OpenAI GPT API (or local LLMs via LangChain)
 * **Data Processing:** Pandas, NumPy
 * **Interface:** Streamlit (for Web UI)
+* **Backend:** FastAPI
 * **Environment Management:** Python-dotenv
 
 ## ✨ Features
